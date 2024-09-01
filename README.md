@@ -9,3 +9,7 @@ le fichier contient :
 # CTI.csv
 le fichier contient :
 Données CTI partiellement aléatorisées, concernant l'année 2023, pour tous les mois détaillés du P&L.
+
+# pipeline_data_tableau.pdf
+le fichier contient :
+Une documentation détaillée sur la mise en place du pipeline automatisé
