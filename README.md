@@ -5,3 +5,7 @@ Ce dépôt contient le code source et les scripts utilisés dans le cadre de mon
 le fichier contient :
 - Deux programmes python pour analyser les fichiers excel et apres pour diviser un document excel avec macros en CSV pour chaque feuille.
 - Quatre VBA macros pour verifier, changer dates et nettoye de verifications.
+
+# CTI.csv
+le fichier contient :
+Données CTI partiellement aléatorisées, concernant l'année 2023, pour tous les mois détaillés du P&L.
